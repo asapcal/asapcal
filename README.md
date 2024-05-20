@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asaph Almeida</h1>
 <h3 align="center">A passionate AI, Infra/Cloud/DevSecOps/SRE and Platform Engineering from Brasil</h3>
 
+- 🔭 I’m currently working and learning Infra/Cloud/Devops/SRE.
+
 - 🌱 I like to talk about and learning **Linux, DevOps, Docker, Kubernetes, IaC, Istio, Generative AI, Prompt Engineering and etc..**
   
 - 👨‍💻 All of my projects are available at here in [https://github.com/asapcal](https://github.com/asapcal)
