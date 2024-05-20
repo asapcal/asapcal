@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
-<h3 align="center">A passionate AI, Infra/Cloud/DevSecOps/SRE and Platform Engineering from Brasil</h3>
+<h3 align="center">A passionate about AI, Infra/Cloud/DevSecOps/SRE and Platform Engineering from Brasil</h3>
 
 - 🔭 I’m currently working and learning Infra/Cloud/Devops/SRE.
 
