@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
-<h3 align="center">A passionate about AI, Infra/Cloud/DevSecOps/SRE and Platform Engineering from Brasil</h3>
+<h3 align="center">A passionate about AI and Platform Engineering from Brasil</h3>
 
-- 🔭 I’m currently working and learning Infra/Cloud/Devops/SRE.
+- 🔭 I’m currently learning and working with Plataform Engineering.
 
-- 🌱 I like to talk about and learning **Linux, DevOps, Docker, Kubernetes, IaC, Istio, Generative AI, Prompt Engineering and etc..**
+- 🌱 I like to talk about and learning **Linux, DevSecOps/SRE, Docker, Kubernetes, IaC, Generative AI, Plataform Engineering and etc..**
   
 - 👨‍💻 All of my projects are available at here in [https://github.com/asapcal](https://github.com/asapcal)
 
