@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning and working with Plataform Engineering.
 
-- 🌱 I like to talk about and learning **Cloud, SRE, Docker, K8s, IaC, AI, Plataform Engineering and etc..**
+- 🌱 I like to talk about: **Cloud, SRE, Docker, K8s, IaC, AI, Plataform Engineering and etc..**
   
 - 👨‍💻 All of my projects are available at here in [https://github.com/asapcal](https://github.com/asapcal)
 
