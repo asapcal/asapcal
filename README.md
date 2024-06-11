@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
 <h3 align="center">A passionate about IT Infrastructure and Platform Engineering from Brasil!</h3>
 
-- 🔭 I am currently learning and working as a Platform Engineer!.
+- 🔭 I am currently learning and working as a Platform Engineer!
 
 - 🌱 I like to talk about: **Cloud, SRE, Docker, K8s, IaC, AI, Plataform Engineering and etc..**
   
