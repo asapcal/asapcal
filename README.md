@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
-<h3 align="center">A passionate about AI and Platform Engineering from Brasil</h3>
+<h3 align="center">I am currently learning and working as a Platform Engineer!</h3>
 
 - 🔭 I’m currently learning and working with Plataform Engineering.
 
