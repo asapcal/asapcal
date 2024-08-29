@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
-<h3 align="center">I like IT Infrastructure and Platform Engineering</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaphcaldeira)
+<h3 align="center">Interested in IT Infrastructure / Platform Engineering</h3>
 
-- 🔭 I am currently working at Trackco as a Platform Engineer
+- 🔭 I am currently working at Trackco as a Platform Engineer - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaphcaldeira)
+
 - 🌱 I like to learning and talk about: **Cloud, Observability, K8S, IaC, AI, Plataform Engineering..**
 - 👨‍💻 All of my projects are available at here in [https://github.com/asapcal](https://github.com/asapcal)
 - 📫 How to reach me: asaphcaldeira@gmail.com
