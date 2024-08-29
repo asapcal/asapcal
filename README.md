@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
 <h3 align="center">A passionate about IT Infrastructure and Platform Engineering from Brasil!</h3>
 
-- 🔭 I am currently working as a Platform Engineer!
+- 🔭 I am currently working at Trackco as a Platform Engineer!
 
 - 🌱 I like to learning and talk about: **Cloud, Observability, K8S, IaC, AI, Plataform Engineering..**
   
