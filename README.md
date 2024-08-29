@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
+<h1 align="center">Hi 👋, I'm Asaph Caldeira</h1> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaphcaldeira)
 <h3 align="center">A passionate about IT Infrastructure and Platform Engineering</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaphcaldeira) 
 
 - 🔭 I am currently working at Trackco as a Platform Engineer
 
