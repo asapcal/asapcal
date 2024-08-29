@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
 <h3 align="center">A passionate about IT Infrastructure and Platform Engineering from Brasil!</h3>
 
-- 🔭 I am currently learning and working as a Platform Engineer!
+- 🔭 I am currently working as a Platform Engineer!
 
-- 🌱 I like to talk about: **Cloud, SRE, Docker, K8s, IaC, AI, Plataform Engineering and etc..**
+- 🌱 I like to learning and talk about: **Cloud, Observability, K8S, IaC, AI, Plataform Engineering..**
   
 - 👨‍💻 All of my projects are available at here in [https://github.com/asapcal](https://github.com/asapcal)
 
