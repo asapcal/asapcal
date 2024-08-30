@@ -1,5 +1,4 @@
-<h1 align="center"><![images](https://github.com/user-attachments/assets/a331e5c8-c498-43f8-b9d8-e282750fe028)
-/h1>
+<h1 align="center"><![images](https://github.com/user-attachments/assets/a331e5c8-c498-43f8-b9d8-e282750fe028)/h1>
 <h3 align="center"> I'm interested in IT Infrastructure / Platform Engineering</h3>
 
 - 🔭 I am currently working at Trackco as a Platform Engineer 
