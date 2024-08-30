@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Asaph Caldeira</h1>
-<h3 align="center">Interested in IT Infrastructure / Platform Engineering</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center"> I'm interested in IT Infrastructure / Platform Engineering</h3>
 
 - 🔭 I am currently working at Trackco as a Platform Engineer 
 - 🌱 I like to learning and talk about: **Cloud, Observability, K8S, IaC, AI, Plataform Engineering..**
