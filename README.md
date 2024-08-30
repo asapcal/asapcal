@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![images](https://github.com/user-attachments/assets/a331e5c8-c498-43f8-b9d8-e282750fe028)"/>
+  <img src="(https://e7.pngegg.com/pngimages/704/215/png-clipart-one-punch-man-saitama-saying-ok-comic-book-strip-one-punch-man-saitama-ok-color-memes-saitama-ok.png)" />
 </p>
 <h3 align="center"> I'm interested in IT Infrastructure / Platform Engineering</h3>
 
