@@ -2,10 +2,10 @@
 
   <img src="https://github.com/user-attachments/assets/2049dd25-2e7e-4c88-b0fc-f6bece6d6686" width="102" />
 </p>
-<h3 align="center"> I'm interested in IT Infrastructure / Platform Engineering</h3>
+<h3 align="center"> I'm interested in IT Infrastructure </h3>
 
 - 🔭 I am currently working at Trackco as a Platform Engineer 
-- 🌱 I like to learning and talk about: **Cloud, Observability, K8S, IaC, AI, Plataform Engineering..**
+- 🌱 I like to learning and talk about: **Cloud, Observability, IaC, AI, Containers**
 - 👨‍💻 All of my demos are available at here
 - 😄 Pronouns: He/Him
 
