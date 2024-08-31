@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/2049dd25-2e7e-4c88-b0fc-f6bece6d6686" width="70" />
+  <img src="https://github.com/user-attachments/assets/2049dd25-2e7e-4c88-b0fc-f6bece6d6686" width="102" />
 </p>
 <h3 align="center"> I'm interested in IT Infrastructure / Platform Engineering</h3>
 
