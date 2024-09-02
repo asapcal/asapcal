@@ -1,4 +1,4 @@
-
+![before-devops-after-devops](https://github.com/user-attachments/assets/b3aad8af-9f60-42be-a37b-6faceda60afa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/asapcal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaphcaldeira) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Key-Bullfrog697) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27149647)
 
 - 🔭 I am currently working at Trackco as a Platform Engineer 
