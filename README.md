@@ -5,4 +5,4 @@
 - 🔭 I am currently working at Trackco as a DevOps,Cloud,Platform Engineer
 - 🌱 I like to learning and talk about: **Cloud, Observability, IaC, AI, Containers and so on..**
 - 👨‍💻 All of my demos are available at here
-- 📫 How to reach me: https://www.linkedin.com/in/asaphcaldeira/
+- 📫 You can reach me on linkedin
