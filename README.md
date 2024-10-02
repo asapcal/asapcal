@@ -4,5 +4,5 @@
 
 - 🔭 I am currently working at Trackco with Cloud/DevOps/SRE and Platform.
 - 🌱 I like to learning and talk about: **Cloud, Observability, IaC, AI, Containers and so on..**
-- 👨‍💻 All of my demos are available at here
-- 📫 You can reach me on linkedin
+- 👨‍💻 All of my demos are available at here.
+- 📫 You can reach me on linkedin.
